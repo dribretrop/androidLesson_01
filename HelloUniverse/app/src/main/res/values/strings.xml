@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloUniverse</string>
+
+    <string name="hello_world">Yahooo world!</string>
+    <string name="action_settings">Setting</string>
+    <string name="action_about">About</string>
+</resources>
